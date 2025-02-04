@@ -1,6 +1,5 @@
-Flask
+fastapi
+uvicorn
 python-dotenv
 langchain
 langchain-openai
-streamlit
-chromadb
